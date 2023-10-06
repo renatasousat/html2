@@ -1,0 +1,86 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1400px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(194, 202, 199);
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {    
+    width: 10%;
+    background-color: rgb(126, 180, 54);
+    padding: 10px 20px 0px;
+    color: #f8fcf8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header {
+    background-color: rgb(251, 252, 251);
+    min-height: 150px;
+    display: flex;
+    flex-direction: row;
+    color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.content {
+    background-color: rgb(5, 108, 27);
+    min-height: 300px;
+    padding: 20px;
+    color: #f1f1f1;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content2 {
+    background-color: rgb(5, 108, 27);
+    min-height: 300px;
+    padding: 20px;
+    color: #f1f1f1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content3 {
+    background-color: rgb(5, 108, 27);
+    min-height: 300px;
+    padding: 20px;
+    color: #f1f1f1;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content4 {
+    background-color: rgb(5, 108, 27);
+    min-height: 300px;
+    padding: 20px;
+    color: #f1f1f1;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    .footer {
+    background-color: rgb(5, 108, 27);
+    min-height: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(230, 230, 228);
+    display: flex;
+    flex-direction: row;
+}
+.xx {
+    background-color: rgb(5, 108, 27);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f1f1f1;
+    text-align: center;
+}
